@@ -2,6 +2,8 @@ name: Scrape Talk Locations
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'talks/**'
       - '_talks/**'
