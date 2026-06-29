@@ -32,6 +32,19 @@ Honors and Awards
 * Outstanding Student, Chongqing University (2022)
 * Comprehensive Scholarship for Outstanding Students, Chongqing University
 
+Projects
+======
+* Chongqing Municipal Undergraduate Innovation Training Project: Container Load Prediction Based on Multi-Feature Fusion (rated Good)
+  * Focused on container load prediction for service clusters. The project used MTGNN to model multivariate effects on container load, graph learning to build pairwise dependencies, lightGCN to capture structural information, and temporal convolutions for forecasting. The RMSE improved by 5.42% over the LSTM baseline.
+  * Responsible for data preprocessing and model construction, including the graph learning module, graph convolution module, temporal dilated convolution, and Inception layers. Contributed more than 70% of the project work.
+* Lingxin Elder Care (Nov. 2022 - May 2023)
+  * Built an intelligent elder-care app addressing population aging and the lack of care for older adults, using ChatGPT, speech recognition, voice cloning, and YOLO-based fall detection.
+  * Responsible for Android app development, ChatGPT and speech recognition API integration, YOLO fall-detection model setup, voice-cloning model setup, and remote server deployment and maintenance.
+  * Received unanimous praise from OPPO experts in the Software Innovation Competition.
+* Tizhai (Sep. 2021 - May 2022)
+  * Developed a smart study app with Flutter and Spring Boot to help students organize wrong answers and review efficiently.
+  * Used Spring Boot and MyBatis to build and maintain the backend and server.
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
